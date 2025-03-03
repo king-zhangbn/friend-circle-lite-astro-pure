@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Wallleap",
+    "intro": "Luwang's Blog",
+    "link": "https://myblog.wallleap.cn/",
+    "avatar": "https://cravatar.cn/avatar/be1ccdcf025a92b98a92e331e1b3662a?size=256",
+    "email": "luwang@oicode.cn"
+  },
+  {
+    "name": "LanYun の Blog",
+    "intro": "Share Technology.",
+    "link": "https://lanyundev.com/",
+    "avatar": "https://lanyundev.com/img/logo.jpg.webp",
+    "rss": "https://lanyundev.com/atom.xml",
+    "email": "lanyun@lanyundev.com"
+  },
+  {
+    "name": "CyanFalse's Weblog",
+    "intro": "I'm CyanFalse,New to Here.",
+    "link": "https://blog.eurekac.cn/",
+    "avatar": "https://cravatar.cn/avatar/15359b6f2fe293366156959c8ab9476f",
+    "email": "chenyf@cyfan.top"
+  },
+  {
+    "name": "LanM蓝莓Blog",
+    "intro": "据说最高级的快乐有三种：自律，爱，创造",
+    "link": "https://lanm.love/",
+    "avatar": "https://www.lanm.love/img/3.ico",
+    "rss": "https://lanm.love/rss.xml",
+    "email": "xiaoteng.one@gmail.com",
+    "status": "request_update"
+  },
+  {
+    "name": "伍十七",
+    "intro": "我是一名正在上大一的前端爱好者，专注于构建优秀的应用程序。",
+    "link": "https://blog.everfu.cn/",
+    "avatar": "https://7.isyangs.cn/66/6745e058e1578-66.webp"
+  },
+  {
+    "name": "Kris Yan",
+    "intro": "無限進步 @Schale夏萊",
+    "link": "https://blog.krisyan.dev/",
+    "avatar": "https://avatars.githubusercontent.com/u/90099234",
+    "rss": "https://blog.krisyan.dev/rss",
+    "email": "hi@krisyan.dev"
+  },
+  {
+    "name": "一叶竹",
+    "intro": "期待下雨天的夜晚",
+    "link": "https://iyyz.org/",
+    "avatar": "https://cravatar.cn/avatar/e6db963600dd82ff9d9e21998b2bd35d"
+  }
+]
