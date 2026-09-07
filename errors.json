@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Cubik 的小站",
+    "intro": "RECOMMENDED BY DR.CREATIVE",
+    "link": "https://cubik65536.top/",
+    "avatar": "https://img.cubik65536.top/CubikLogo.png",
+    "rss": "https://www.cubik65536.top/atom.xml",
+    "email": "me@cubik65536.top"
+  },
+  {
+    "name": "LanYun の Blog",
+    "intro": "Share Technology.",
+    "link": "https://lanyundev.com/",
+    "avatar": "https://lanyundev.com/img/logo.jpg.webp",
+    "rss": "https://lanyundev.com/atom.xml",
+    "email": "lanyun@lanyundev.com"
+  },
+  {
+    "name": "大大的小蜗牛",
+    "intro": "机会总是垂青于有准备的人",
+    "link": "https://www.eallion.com/",
+    "avatar": "https://cdn.sep.cc/avatar/171e4c30959e8c077a6c58b958624b31",
+    "rss": "https://www.eallion.com/index.xml",
+    "email": "eallions@gmail.com"
+  },
+  {
+    "name": "XingJiのBlog",
+    "intro": "迄今所有人生都大写着失败，但不妨碍我继续向前✨",
+    "link": "https://love.xingji.fun/",
+    "avatar": "https://i.p-i.vip/47/20240920-66ed7b168c38c.jpg",
+    "email": "33260502459@qq.com",
+    "rss": "https://love.xingji.fun/atom.xml"
+  },
+  {
+    "name": "王小明的杂物堆",
+    "intro": "乱七八糟就像我一样",
+    "link": "https://imwzj.uk/",
+    "avatar": "https://avatars.githubusercontent.com/u/87957461",
+    "email": "zhuo0107@foxmail.com",
+    "rss": "https://imwzj.uk/rss.xml"
+  },
+  {
+    "name": "一叶竹",
+    "intro": "期待下雨天的夜晚",
+    "link": "https://iyyz.org/",
+    "avatar": "https://cdn.sep.cc/avatar/e6db963600dd82ff9d9e21998b2bd35d",
+    "rss": "https://iyyz.org/feed"
+  },
+  {
+    "name": "SUSU",
+    "intro": "在数字的海洋中，寻找属于自己的星辰。",
+    "link": "https://suus.me/",
+    "avatar": "https://cdn.sep.cc/avatar/4924b5f45b6b65e4925c35f9056fe3e7?s=200",
+    "email": "wu-tianliang@qq.com",
+    "rss": "https://suus.me/atom.xml"
+  },
+  {
+    "name": "Zhen 的小站",
+    "intro": "二次元是第一技术力！",
+    "link": "https://gongz.moe/",
+    "avatar": "https://gongz.moe/favicon.ico"
+  },
+  {
+    "name": "AkiDAY",
+    "intro": "永恒秋日之星",
+    "link": "https://blog.akiday.com/",
+    "avatar": "https://blog.akiday.com/imgapi/profile.webp",
+    "rss": "https://blog.akiday.com/feed"
+  },
+  {
+    "name": "小码同学",
+    "intro": "喜欢的东西就努力去追求，万一成功了呢!",
+    "link": "https://blog.hikki.site/",
+    "avatar": "https://bu.dusays.com/2025/03/02/67c4531250141.jpg",
+    "email": "wu-tianliang@qq.com",
+    "rss": "https://blog.hikki.site/atom.xml"
+  },
+  {
+    "name": "Ethan",
+    "intro": "Don’t stay awake for too long.",
+    "link": "https://hanlife02.com/",
+    "avatar": "https://hanlife02.com/avatar.svg",
+    "email": "han@hanlife02.com.cn",
+    "rss": "https://hanlife02.com/feed"
+  },
+  {
+    "name": "Amiracle",
+    "intro": "向往之处，便是归途",
+    "link": "https://amiracle.site/",
+    "avatar": "https://cdn.amiracle.site/sm_avatar.jpg",
+    "email": "amiracletm@gmail.com"
+  }
+]
