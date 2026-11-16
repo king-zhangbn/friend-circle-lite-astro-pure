@@ -1,0 +1,62 @@
+[
+  {
+    "name": "LanYun の Blog",
+    "intro": "Share Technology.",
+    "link": "https://lanyundev.com/",
+    "avatar": "https://lanyundev.com/img/logo.jpg.webp",
+    "rss": "https://lanyundev.com/atom.xml",
+    "email": "lanyun@lanyundev.com"
+  },
+  {
+    "name": "Cubik 的小站",
+    "intro": "RECOMMENDED BY DR.CREATIVE",
+    "link": "https://cubik65536.top/",
+    "avatar": "https://img.cubik65536.top/CubikLogo.png",
+    "rss": "https://www.cubik65536.top/atom.xml",
+    "email": "me@cubik65536.top"
+  },
+  {
+    "name": "一叶竹",
+    "intro": "期待下雨天的夜晚",
+    "link": "https://iyyz.org/",
+    "avatar": "https://gravatar.loli.net/avatar/e6db963600dd82ff9d9e21998b2bd35d",
+    "rss": "https://iyyz.org/feed"
+  },
+  {
+    "name": "AkiDAY",
+    "intro": "永恒秋日之星",
+    "link": "https://blog.akiday.com/",
+    "avatar": "https://blog.akiday.com/imgapi/profile.webp",
+    "rss": "https://blog.akiday.com/feed"
+  },
+  {
+    "name": "小慧博客",
+    "intro": "小慧的技术博客",
+    "link": "https://www.itxiaohui.top/",
+    "avatar": "https://blogoss.itxiaohui.top/logo%20-uhlgnmrf.png",
+    "rss": "https://www.itxiaohui.top/rss.xml",
+    "email": "193942343@qq.com"
+  },
+  {
+    "name": "Wallleap",
+    "intro": "Luwang's Blog",
+    "link": "https://myblog.wallleap.cn/",
+    "avatar": "https://gravatar.loli.net/avatar/be1ccdcf025a92b98a92e331e1b3662a?size=256",
+    "email": "luwang@oicode.cn"
+  },
+  {
+    "name": "Ethan",
+    "intro": "Don’t stay awake for too long.",
+    "link": "https://hanlife02.com/",
+    "avatar": "https://hanlife02.com/avatar.svg",
+    "email": "han@hanlife02.com.cn",
+    "rss": "https://hanlife02.com/feed"
+  },
+  {
+    "name": "Amiracle",
+    "intro": "向往之处，便是归途",
+    "link": "https://amiracle.site/",
+    "avatar": "https://cdn.amiracle.site/sm_avatar.jpg",
+    "email": "amiracletm@gmail.com"
+  }
+]
